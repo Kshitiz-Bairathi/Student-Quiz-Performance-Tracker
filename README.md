@@ -23,7 +23,7 @@ A Python-based quiz and performance tracking system for students and administrat
 This project offers a **simple and efficient** way to conduct quizzes and track student performance using lightweight **data storage techniques**.
 
 ## **Getting Started**  
-To start this project, simply execute the `main.py` file. It will run the application and guide you through the login process for both students and admins.
+To start this project, simply execute the `Main.py` file. It will run the application and guide you through the login process for both students and admins.
 
 ```bash
-python main.py
+python Main.py
